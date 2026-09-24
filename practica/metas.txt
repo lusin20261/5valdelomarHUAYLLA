@@ -1,0 +1,5 @@
+ser policia
+ser doctora
+ser profesora
+ser auxiliar
+ser sirujana
